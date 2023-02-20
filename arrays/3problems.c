@@ -23,3 +23,8 @@ Write a function which calculates the sum of times entered by the user. E.g. if 
 
 
 
+    
+
+
+
+
